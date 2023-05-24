@@ -1,5 +1,8 @@
 _repo: The-lonely-house_70698
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70698-h/images/cover.jpg
 creator:
   author:
     agent_name: Lowndes, Marie Belloc
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/786
     wikipedia: https://en.wikipedia.org/wiki/Marie_Belloc_Lowndes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70698#The-lonely-house
 gutenberg_issued: '2023-05-04'
 identifiers:
   gutenberg: '70698'
